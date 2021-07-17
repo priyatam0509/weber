@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Calibre Medium';
+  src: url('CalibreWeb-Medium.eot') format('embedded-opentype'),
+    url('CalibreWeb-Medium.woff2') format('woff2'),
+    url('CalibreWeb-Medium.woff') format('woff'),
+    url('CalibreWeb-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+    url('CalibreApp-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Calibre Regular';
+  src: url('CalibreWeb-Regular.eot') format('embedded-opentype'),
+    url('CalibreWeb-Regular.woff2') format('woff2'),
+    url('CalibreWeb-Regular.woff') format('woff'),
+    url('CalibreWeb-Regulard41d.eot?#iefix') format('embedded-opentype'),
+    url('CalibreApp-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Glosa Display";
+  src: url("Fonts/5174260/4597b4c1-04e6-41d8-af25-08af2b6b36acd41d.eot?#iefix");
+  src: url("Fonts/5174260/4597b4c1-04e6-41d8-af25-08af2b6b36acd41d.eot?#iefix") format("eot"), url("Fonts/5174260/42494225-5da4-4c0f-983c-03cae34ad55d.woff2") format("woff2"), url("Fonts/5174260/97006508-4e98-40b4-ba64-72b8c187eb85.woff") format("woff"), url("Fonts/5174260/77e2abb7-b075-4f17-82a0-f4db9b53c750.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Glosa Display Italic";
+  src: url("Fonts/5178640/c72e6f7b-59d4-4749-8504-db0b44b720b4d41d.eot?#iefix");
+  src: url("Fonts/5178640/c72e6f7b-59d4-4749-8504-db0b44b720b4d41d.eot?#iefix") format("eot"), url("Fonts/5178640/dde4585c-2eb7-48e0-953a-bbe0d45b11c1.woff2") format("woff2"), url("Fonts/5178640/0b5c19a6-f6a2-49e0-88c8-a7c209c6a392.woff") format("woff"), url("Fonts/5178640/60a0300d-9140-40af-a1a8-50fe25ced9f9.ttf") format("truetype");
+}

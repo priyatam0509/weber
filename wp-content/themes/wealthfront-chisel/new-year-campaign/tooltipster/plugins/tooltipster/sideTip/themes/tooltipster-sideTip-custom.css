@@ -1,0 +1,12 @@
+.tooltipster-sidetip.tooltipster-custom.tooltipster-custom .tooltipster-box {
+	background: #FFFFFF;
+	box-shadow: 0 2px 8px 0 rgba(0,0,0,0.30);
+}
+
+.tooltipster-sidetip.tooltipster-custom.tooltipster-custom .tooltipster-content {
+	font: 14px/18px "Calibre Regular";
+	color: #202028;
+	padding: 16px 15px;
+}
+
+.tooltipster-sidetip.tooltipster-light.tooltipster-bottom .tooltipster-arrow-background{border-bottom-color:#fff;box-shadow: 0 2px 8px 0 rgba(0,0,0,0.30);}
